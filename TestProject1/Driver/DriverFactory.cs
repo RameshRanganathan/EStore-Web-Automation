@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 
-namespace Test_Store_Automation.Utils
+namespace Test_Store_Automation.Driver
 {
     internal static class DriverFactory
     {
