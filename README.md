@@ -16,7 +16,7 @@ ChromeDriver (matching your Chrome version)
 Setup Steps:
 
 Clone the repository:
-git clone https://github.com/your-org/test-store-automation.git
+git clone https://github.com/RameshRanganathan/EStore-Web-Automation.git
 
 Restore NuGet packages:
 dotnet restore
